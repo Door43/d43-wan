@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wan:home|Door43 (wan)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wan|d43-wan repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wan/archive/master.zip|d43-wan.zip]]
+
+**Recent Changes**
+{{changes>ns = wan}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wan|Ethnologue data]]
+
